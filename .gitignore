@@ -1,0 +1,16 @@
+# Jupyter notebooks
+*checkpoint.ipynb
+*.ipynb
+.ipynb_checkpoints/
+dask-worker-space/
+__pycache__
+
+# Data
+#*.csv
+
+# Mac files
+*.DS_Store
+
+#Folders
+Archive/
+DNU/
