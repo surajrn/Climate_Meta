@@ -1,6 +1,5 @@
 # Jupyter notebooks
 *checkpoint.ipynb
-*.ipynb
 .ipynb_checkpoints/
 dask-worker-space/
 __pycache__
